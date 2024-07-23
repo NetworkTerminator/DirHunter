@@ -1,0 +1,6 @@
+Steps to install and use the tool.
+
+1)Git clone https://github.com/NetworkTerminator/DirHunter
+2)cd DirHunter
+3)chmod +x dirhunter.py
+4)python3 dirhunter.py https://example.com wordlist.txt
